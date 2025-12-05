@@ -94,5 +94,5 @@ A simple, user-friendly web app to discover cafes nearby, view details, and save
 ## Maintainer / Contact
 
 Maintainer: pallavibakale  
-GitHub: https://github.com/pallavibakale
+GitHub: https://github.com/pallavibakale 
 Email: bakalepallavi16@gmail.com
